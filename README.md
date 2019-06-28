@@ -1,1 +1,3 @@
-DIU-UGR
+# Informática Gráfica
+
+### Juan Manuel Castillo Nievas
